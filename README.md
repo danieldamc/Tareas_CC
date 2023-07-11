@@ -1,2 +1,2 @@
 # Tareas-CC
-Tareas Computacion Cientifica 2023-01
+Tareas Computacion Cientifica INF-285 2023-01
